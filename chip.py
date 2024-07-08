@@ -1,8 +1,6 @@
 #!/bin/python3
 import subprocess
 from typing import List
-from navi_shell import tr, get_ai_name, llm_chat, get_user
-from navi import get_ip_address, get_hostname, get_parameters, get_command_path
 
 
 command = "Example_Chip"
